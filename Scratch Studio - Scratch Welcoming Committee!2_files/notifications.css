@@ -1,0 +1,130 @@
+/* Notifications Page */
+.notification-feed {
+  margin-left: 0px;
+  padding: 20px;
+  padding-top: 0px;
+}
+
+.notification-feed ul li.read {
+  opacity: .7;
+}
+
+.notification-feed ul li.unread {
+  background-color: #eed;
+  opacity: 1;
+}
+
+.notification-feed li,
+.scratch-team li {
+  list-style-type: none;
+}
+
+.scratch-team li {
+  padding: .5em .5em;
+}
+
+.notification-feed li {
+  padding: 1em .5em;
+  margin: 0;
+}
+
+.notification-feed ul,
+ul.scratch-team {
+  margin-left: 0px;
+}
+
+#admin-notifications {
+  margin-bottom: 10px;
+}
+
+ul.admin-notification-list {
+  margin: 0;
+}
+
+ul.social-notification-list li,
+ul.scratch-team li {
+  border-bottom: 1px solid #eee;
+}
+
+.notification-feed .time {
+  color: #999;
+}
+
+.notification-feed .comment-snippet {
+  font-style: italic;
+}
+
+.scratch-team li {
+  background-color: #ffe5e5;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.notification-feed div {
+  margin-top: 20px;
+}
+
+.notification-feed li span.delete {
+  float: right;
+  display: inline-block;
+  color: #999;
+  font-size: 14px;
+  cursor: pointer;
+  padding: 0px 5px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+}
+
+.notification-feed li span.delete:hover {
+  background-color: #ddd;
+  color: #fff;
+}
+
+.notification-feed li span.icon-xs {
+  opacity: .7;
+  padding-left: 14px;
+}
+
+.notification-feed li .icon {
+  padding-left: 15px;
+}
+
+.notification-feed li a.title {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 150px;
+}
+
+#message-nav-links {
+  padding: 10px 20px 0px 20px;
+}
+
+#message-nav-links a {
+  display: inline-block;
+}
+
+#message-nav-links .newer {
+  float: right;
+}
+
+/*
+     FILE ARCHIVED ON 07:20:57 Apr 28, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:29:08 Feb 03, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.067
+  exclusion.robots.policy: 0.058
+  cdx.remote: 0.089
+  esindex: 0.01
+  LoadShardBlock: 139.289 (6)
+  PetaboxLoader3.datanode: 129.807 (7)
+  load_resource: 175.103
+  PetaboxLoader3.resolve: 52.921
+*/
